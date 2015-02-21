@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Roster</string>
+    
+     <!-- strings for login page -->
+    <string name="welcome">Welcome!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    
+     <!-- strings shared by most page -->
+    <string name="submit">Submit</string>
+    
+    
+    <!-- strings for admin page -->
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+     <string name="date">Assignment Date</string>
+    
+     <!-- strings for menu page -->
+    <string name="action_settings">Settings</string>
+
+</resources>
